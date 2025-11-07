@@ -30,6 +30,12 @@ The insights help identify good vs. bad loans and support data-driven decision m
 - **Python (Jupyter Notebook)**
 - **Power BI**
 
+### 🧹 Data Preparation
+
+The dataset was already well-structured and did not require significant cleaning.
+Only basic formatting steps were applied (such as ensuring correct data types).
+The primary focus of this project was on KPI development, trend analysis, and dashboard visualization.
+
 ### 📊 Dashboard Preview
 
 #### Summary Dashboard
