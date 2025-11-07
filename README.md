@@ -1,7 +1,7 @@
 # Bank Loan Analysis
 
 This project analyzes bank loan data to evaluate overall lending performance and borrower profiles.
-It includes dashboards to track key indicators such as: 
+It includes dashboards to track key indicators such as 
 Total loan applications, 
 Funded amounts,
 Amount received,
