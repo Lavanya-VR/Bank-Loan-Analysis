@@ -30,13 +30,13 @@ The insights help identify good vs. bad loans and support data-driven decision m
 - **Python (Jupyter Notebook)**
 - **Power BI**
 
-### 📊 Dashboard Previews
+### 📊 Dashboard Preview
 
-**Summary Dashboard**
-![Summary](./summary.png)
+#### Summary Dashboard
+![Summary Dashboard](./summary.png)
 
-**Overview Dashboard**
-![Overview 1](./overview1.png)
+#### Overview Dashboard - 1
+![Overview Dashboard 1](./overview_1.png)
 
-**Detailed Borrower Insights**
-![Overview 2](./overview2.png)
+#### Overview Dashboard - 2
+![Overview Dashboard 2](./overview_2.png)
